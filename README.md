@@ -1,4 +1,4 @@
-! [image alt](IMG_2748.jpeg)
+<img src="IMG_2748.jpeg"/>
 
 <!--
 **mimivii/mimivii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
