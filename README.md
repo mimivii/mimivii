@@ -1,8 +1,11 @@
-<img src="IMG_2748.jpeg"/>
+$\LARGE\texttt{{"No matter what happens we are still bonded."}}$
 
+<img src="IMG_2748.jpeg"/>
+<img src="https://decohoard.carrd.co/assets/images/gallery114/73105da5.gif?v=e0827b7e![image](https://github.com/user-attachments/assets/6c5dd7d0-e886-48ba-b923-dbf5e5b30d18)" width="13%"/>
+
+  
 <!--
 **mimivii/mimivii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
