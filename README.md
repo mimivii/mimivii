@@ -2,7 +2,7 @@
   
 $\LARGE\color{	#FF007F}\texttt{{"No matter what happens we are always bonded."}}$
 
-![main](IMG_2748.jpeg)
+![main](Untitled_Artwork.png)
 
 <img src="https://decohoard.carrd.co/assets/images/gallery114/73105da5.gif?v=e0827b7e![image](https://github.com/user-attachments/assets/6c5dd7d0-e886-48ba-b923-dbf5e5b30d18)"  width="25%"/>
 
