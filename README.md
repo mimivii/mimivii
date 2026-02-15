@@ -1,4 +1,5 @@
 <div align="center">
+ <img src="IMG_2763.png"\>
   
 $\huge\color{	#FF007F}\texttt{{"No matter what happens we are always bonded."}}$
 
@@ -9,3 +10,5 @@ $\huge\color{	#FF007F}\texttt{{"No matter what happens we are always bonded."}}$
 **𐙚 mimi >> ᶻ 𝗓 𐰁 .ᐟ hyper and senstive!ᥫ᭡.**
 
 ![](https://komarev.com/ghpvc/?username=mimivii&label=(˶˃𐃷˂˶)&color=ff69b4)
+
+<img src="IMG_2762.png"/>
