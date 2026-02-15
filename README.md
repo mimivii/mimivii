@@ -6,8 +6,9 @@ $\LARGE\color{	#FF007F}\texttt{{"No matter what happens we are always bonded."}}
 
 <img src="https://decohoard.carrd.co/assets/images/gallery114/73105da5.gif?v=e0827b7e![image](https://github.com/user-attachments/assets/6c5dd7d0-e886-48ba-b923-dbf5e5b30d18)"  width="25%"/>
 
-${\texttt{𐙚 mimi >> ᶻ 𝗓 𐰁 .ᐟ hyper and senstive!ᥫ᭡.}}$
+**𐙚 mimi >> ᶻ 𝗓 𐰁 .ᐟ hyper and senstive!ᥫ᭡.**
 
+![](https://komarev.com/ghpvc/?username=your-github-username&label=(˶˃𐃷˂˶))
   
 <!--
 **mimivii/mimivii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
